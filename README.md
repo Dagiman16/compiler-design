@@ -1,8 +1,8 @@
 # Compiler Design
 
 ## Author
-Name: Dagim Sewnet
-ID: 145771
+*Name*: Aklilu Sisay
+*ID*: 149116
 
 ## Google Colab Link
-[MY Colab Link](https://colab.research.google.com/drive/1yLQfLd0HRxsQjX2k9HANi92GQfG8jj3R?usp=sharing)
+[go to Colab ](https://colab.research.google.com/drive/15J29gXkCEF1E4jX2-mPa6n5eOEJvHuPV?usp=sharing)
